@@ -1,0 +1,592 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="diagramm-kursstruktur"
+    version="1.1"
+    viewBox="0 0 595.28 841.89"
+    preserveAspectRatio="xMidYMid meet"
+>
+  <defs>
+    <style>
+      .st0{stroke-dasharray:1.6 3.2 0 0 0 0;stroke-miterlimit:10}.st0,.st1{stroke-width:.8px}.st0,.st1,.st2{fill:none}.st0,.st11,.st12,.st13,.st14,.st8{stroke:#000}.st0,.st8{stroke-linecap:round}.st1,.st17,.st2{stroke-miterlimit:1.28;stroke:#1d1d1b}.st11,.st12,.st13,.st14,.st17,.st2,.st8{stroke-width:.53px}.st11,.st12,.st13,.st14,.st8{stroke-linejoin:round}.st19{fill:#1d1d1b}.st20,.st21,.st22,.st23,.st24{isolation:isolate}.st21,.st22,.st23,.st24,.st25{font-family:ArialMT,Arial}.st8{fill:#cf588a}.st26,.st8{fill-rule:evenodd}.st21{font-size:13.06px}.st22,.st23{font-size:5.34px}.st11{fill:#08a19a}.st12,.st17{fill:#c6c6c6}.st13{fill:#33b6e5}.st24,.st25{font-size:7.48px}.st14{fill:#a6ff8a}
+    </style>
+  </defs>
+  <g id="Ebene-1">
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/feldbotanik-grundkurs"
+        >
+      <g id="GK">
+        <path
+                    d="M258.24 600.75c0 19.01-23.13 34.43-51.66 34.43s-51.66-15.41-51.66-34.43 23.13-34.43 51.66-34.43 51.66 15.41 51.66 34.43"
+                    style="fill:#35b7e5;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st21" transform="translate(172.83 596.21)"><tspan
+                        x="0"
+                        y="0"
+                    >Feldbotanik</tspan></text>
+        <text class="st21" transform="translate(176.11 611.88)"><tspan
+                        x="0"
+                        y="0"
+                    >Grundkurs</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/feldbotanik-kurs-50"
+        >
+      <g id="FBK50">
+        <path
+                    d="M258.24 502.58c0 19.01-23.13 34.43-51.66 34.43s-51.66-15.41-51.66-34.43 23.13-34.43 51.66-34.43 51.66 15.41 51.66 34.43"
+                    class="st13"
+                />
+        <text class="st21" transform="translate(160.5 501.82)"><tspan
+                        x="0"
+                        y="0"
+                    >Feldbotanikkurs</tspan></text>
+        <text class="st21" transform="translate(199.32 517.49)"><tspan
+                        x="0"
+                        y="0"
+                    >50</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/feldbotanik-kurs-200"
+        >
+      <g id="FBK200">
+        <path
+                    d="M258.24 401.47c0 19.01-23.13 34.43-51.66 34.43s-51.66-15.41-51.66-34.43 23.13-34.43 51.66-34.43 51.66 15.41 51.66 34.43"
+                    class="st13"
+                />
+        <text class="st21" transform="translate(160.5 400.71)"><tspan
+                        x="0"
+                        y="0"
+                    >Feldbotanikkurs</tspan></text>
+        <text class="st21" transform="translate(195.69 416.38)"><tspan
+                        x="0"
+                        y="0"
+                    >200</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/feldbotanik-kurs-400"
+        >
+      <g id="FBK400">
+        <path
+                    d="M258.24 301.83c0 19.01-23.13 34.43-51.66 34.43s-51.66-15.41-51.66-34.43 23.13-34.43 51.66-34.43 51.66 15.41 51.66 34.43"
+                    class="st13"
+                />
+        <text class="st21" transform="translate(160.5 301.07)"><tspan
+                        x="0"
+                        y="0"
+                    >Feldbotanikkurs</tspan></text>
+        <text class="st21" transform="translate(195.69 316.74)"><tspan
+                        x="0"
+                        y="0"
+                    >400</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/feldbotanik-kurs-600"
+        >
+      <g id="FBK600">
+        <path
+                    d="M258.24 202.38c0 19.01-23.13 34.43-51.66 34.43s-51.66-15.41-51.66-34.43 23.13-34.43 51.66-34.43 51.66 15.41 51.66 34.43"
+                    class="st13"
+                />
+        <text class="st21" transform="translate(160.5 201.62)"><tspan
+                        x="0"
+                        y="0"
+                    >Feldbotanikkurs</tspan></text>
+        <text class="st21" transform="translate(195.69 217.29)"><tspan
+                        x="0"
+                        y="0"
+                    >600</tspan></text>
+      </g>
+    </a>
+    <a xlink:href="https://www.botanikexkursionen.ch/beschreibung/moose">
+      <g id="Moose">
+        <path
+                    d="M556.84 628.09h-65.19c0-19.32 14.59-34.99 32.59-34.99s32.59 15.67 32.59 34.99Z"
+                    style="fill:#52933d;stroke:#231e1e;stroke-width:.53px;stroke-miterlimit:1.28"
+                />
+        <text class="st24" transform="translate(513.03 615.95)"><tspan
+                        x="0"
+                        y="0"
+                    >Moose</tspan></text>
+      </g>
+    </a>
+    <a xlink:href="https://www.botanikexkursionen.ch/beschreibung/pilze">
+      <g id="Pilze-GK">
+        <path
+                    d="M440.96 584.7c2.28 0 14.52 6.48 15.94 8.44 1.42 1.96 4.44 16.53 3.94 18.97-.51 2.44-8.98 14.13-11.03 15.21-2.05 1.09-15.64 1.09-17.69 0-2.05-1.09-10.53-12.77-11.03-15.21-.51-2.44 1.74-16.48 3.16-18.44 1.42-1.96 14.44-8.97 16.72-8.97h0Z"
+                    class="st8"
+                />
+        <text class="st24" transform="translate(432.85 604.78)"><tspan
+                        x="0"
+                        y="0"
+                    >Pilze</tspan></text>
+        <text class="st24" transform="translate(423.5 612.5)"><tspan
+                        x="0"
+                        y="0"
+                    >Grundkurs</tspan></text>
+      </g>
+    </a>
+    <a xlink:href="https://www.botanikexkursionen.ch/beschreibung/pilze">
+      <g id="Pilze-VK">
+        <path
+                    d="M472.68 563.65H407.2c-.82-1.75-1.23-3.57-1.23-5.39 0-11.13 15.22-20.16 33.97-20.16s33.97 9.03 33.97 20.16c0 1.82-.42 3.63-1.23 5.39h0Z"
+                    class="st8"
+                />
+        <g class="st20">
+          <text class="st24" transform="translate(413.97 556.24)"><tspan
+                            x="0"
+                            y="0"
+                        >Pilze V</tspan></text>
+          <text class="st24" transform="translate(436.83 556.24)"><tspan
+                            x="0"
+                            y="0"
+                        >e</tspan></text>
+          <text class="st24" transform="translate(440.99 556.24)"><tspan
+                            x="0"
+                            y="0"
+                        >r</tspan></text>
+          <text class="st25" transform="translate(443.48 556.24)"><tspan
+                            x="0"
+                            y="0"
+                        >tiefung</tspan></text>
+        </g>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/fruehblueher-kurs"
+        >
+      <g id="Frühblüher">
+        <path
+                    d="M364.1 608.38c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    style="fill:#d6fff5;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="translate(316.38 610.17)"><tspan
+                        x="0"
+                        y="0"
+                    >Frühblüher</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/gehoelze-kurs"
+        >
+      <g id="Bäumer">
+        <path
+                    d="M363.51 560.88c0 10.89-13.25 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.25-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    style="stroke-linejoin:round;fill:#919959;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="matrix(.99 0 0 1 319.28 558.28)"><tspan
+                        x="0"
+                        y="0"
+                    >Bäume &amp;</tspan></text>
+        <text class="st24" transform="matrix(.99 0 0 1 318.46 566.61)"><tspan
+                        x="0"
+                        y="0"
+                    >Sträucher</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/gehoelze-kurs"
+        >
+      <g id="Knospen">
+        <path
+                    d="M364.04 502.58c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    style="fill:#929858;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="translate(319.7 504.62)"><tspan
+                        x="0"
+                        y="0"
+                    >Knospen</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/neophyten-kurs/?"
+        >
+      <g id="Neophyten">
+        <path
+                    d="M105.61 608.38c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    style="fill:#ff7c6d;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="translate(61.66 600.81)"><tspan
+                        x="0"
+                        y="0"
+                    >Invasive</tspan></text>
+        <text class="st24" transform="translate(53.76 609.14)"><tspan
+                        x="0"
+                        y="0"
+                    >Neophyten &amp;</tspan></text>
+        <text class="st24" transform="translate(50.64 617.48)"><tspan
+                        x="0"
+                        y="0"
+                    >Ersatzpﬂanzen</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/wiesengraeser-grundkurs"
+        >
+      <g id="Wiesengräser-GK">
+        <path
+                    d="M105.56 560.88c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st14"
+                />
+        <text class="st24" transform="translate(52.91 558.9)"><tspan
+                        x="0"
+                        y="0"
+                    >Wiesengräser</tspan></text>
+        <text class="st24" transform="translate(59.07 565.84)"><tspan
+                        x="0"
+                        y="0"
+                    >Grundkurs</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/sauergraeser-kurs"
+        >
+      <g id="Sauergräser">
+        <path
+                    d="M105.56 392.8c0 10.89-13.24 19.72-29.58 19.72S46.4 403.69 46.4 392.8s13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st14"
+                />
+        <text class="st24" transform="translate(55.4 395.16)"><tspan
+                        x="0"
+                        y="0"
+                    >Sauergräser</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/wiesengraeser-vertiefungskurs"
+        >
+      <g id="Wiesegräser-VK">
+        <path
+                    d="M105.56 442.73c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st14"
+                />
+        <text class="st24" transform="translate(52.31 440.39)"><tspan
+                        x="0"
+                        y="0"
+                    >Wiesengräser</tspan></text>
+        <g class="st20">
+          <text class="st24" transform="translate(58.71 448.72)"><tspan
+                            x="0"
+                            y="0"
+                        >V</tspan></text>
+          <text class="st24" transform="translate(63.28 448.72)"><tspan
+                            x="0"
+                            y="0"
+                        >e</tspan></text>
+          <text class="st24" transform="translate(67.44 448.72)"><tspan
+                            x="0"
+                            y="0"
+                        >r</tspan></text>
+          <text class="st25" transform="translate(69.93 448.72)"><tspan
+                            x="0"
+                            y="0"
+                        >tiefung</tspan></text>
+        </g>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/korbbluetler-kurs"
+        >
+      <g id="Korbblütler">
+        <path
+                    d="M105.56 340.96c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    style="fill:#ffff80;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="translate(57.89 342.76)"><tspan
+                        x="0"
+                        y="0"
+                    >Korbblütler</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/alpenflora-grundkurs"
+        >
+      <g id="Alpenflora">
+        <path
+                    d="M364.1 442.73c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    style="fill:#f18aff;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="matrix(.94 0 0 1 318.63 439.92)"><tspan
+                        x="0"
+                        y="0"
+                    >Alpenﬂora</tspan></text>
+        <text class="st24" transform="matrix(.94 0 0 1 318.04 448.25)"><tspan
+                        x="0"
+                        y="0"
+                    >Grundkurs</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/regionale-flora-kurs"
+        >
+      <g id="Glarnerland">
+        <path
+                    d="M364.1 392.8c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    class="st11"
+                />
+        <text class="st24" transform="translate(325.94 390.05)"><tspan
+                        x="0"
+                        y="0"
+                    >Flora</tspan></text>
+        <text class="st24" transform="translate(314.92 398.38)"><tspan
+                        x="0"
+                        y="0"
+                    >Glarnerland</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/regionale-flora-kurs"
+        >
+      <g id="Wallis">
+        <path
+                    d="M364.1 340.96c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    class="st11"
+                />
+        <g class="st20">
+          <text class="st24" transform="translate(315.07 343.38)"><tspan
+                            x="0"
+                            y="0"
+                        >Flora W</tspan></text>
+          <text class="st24" transform="translate(340.96 343.38)"><tspan
+                            x="0"
+                            y="0"
+                        >a</tspan></text>
+          <text class="st24" transform="translate(345.12 343.38)"><tspan
+                            x="0"
+                            y="0"
+                        >l</tspan></text>
+          <text class="st25" transform="translate(346.78 343.38)"><tspan
+                            x="0"
+                            y="0"
+                        >lis</tspan></text>
+        </g>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/regionale-flora-kurs"
+        >
+      <g id="Ausland">
+        <path
+                    d="M364.04 289.78c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st11"
+                />
+        <text class="st24" transform="translate(325.94 282.64)"><tspan
+                        x="0"
+                        y="0"
+                    >Flora</tspan></text>
+        <text class="st24" transform="translate(310.97 290.36)"><tspan
+                        x="0"
+                        y="0"
+                    >Montenegro &amp;</tspan></text>
+        <text class="st24" transform="translate(319.91 298.08)"><tspan
+                        x="0"
+                        y="0"
+                    >Albanien</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/regionale-flora-kurs"
+        >
+      <g id="Zermatt">
+        <path
+                    d="M364.35 202.38c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    class="st11"
+                />
+        <text class="st24" transform="translate(311.75 203.57)"><tspan
+                        x="0"
+                        y="0"
+                    >Flora Zermatt</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/repetitions-kurs"
+        >
+      <g id="Repi400">
+        <path
+                    d="M105.56 289.78c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st13"
+                />
+        <text class="st24" transform="translate(51.86 291.42)"><tspan
+                        x="0"
+                        y="0"
+                    >Repetition 400</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/repetitions-kurs"
+        >
+      <g id="Repi600">
+        <path
+                    d="M105.56 179.93c0 10.89-13.24 19.72-29.58 19.72s-29.58-8.83-29.58-19.72 13.24-19.72 29.58-19.72 29.58 8.83 29.58 19.72"
+                    class="st13"
+                />
+        <text class="st24" transform="translate(51.86 181.54)"><tspan
+                        x="0"
+                        y="0"
+                    >Repetition 600</tspan></text>
+      </g>
+    </a>
+    <a
+            xlink:href="https://www.botanikexkursionen.ch/beschreibung/exkursionsleiter-kurs"
+        >
+      <g id="ELK">
+        <path
+                    d="M105.61 232.65c0 10.91-13.27 19.76-29.64 19.76s-29.64-8.85-29.64-19.76 13.27-19.76 29.64-19.76 29.64 8.85 29.64 19.76"
+                    style="fill:#a682f0;stroke-linejoin:round;stroke-width:.53px;stroke:#000"
+                />
+        <text class="st24" transform="translate(56.44 230.61)"><tspan
+                        x="0"
+                        y="0"
+                    >Exkursions-</tspan></text>
+        <text class="st24" transform="translate(60.81 238.94)"><tspan
+                        x="0"
+                        y="0"
+                    >leiterkurs</tspan></text>
+      </g>
+    </a>
+    <path d="m298 398.34 6.81-3.37-7.47-1.4.66 4.76Z" class="st19" />
+    <path d="m299.1 395.76-41.04 5.66" class="st1" />
+    <path d="m78.34 470.08-2.4-7.21-2.4 7.21h4.81Z" class="st19" />
+    <path d="M75.94 468.64v72.71" class="st1" />
+    <path d="m297.13 504.99 7.21-2.4-7.21-2.4V505Z" class="st19" />
+    <path d="M298.57 502.58h-40.33" class="st1" />
+    <path d="m298.92 566.54 5.42-5.33-7.53 1.01 2.11 4.32Z" class="st19" />
+    <path d="m299.16 563.74-45.9 22.47" class="st1" />
+    <path d="m210.26 544.22-2.4-7.21-2.4 7.21h4.81Z" class="st19" />
+    <path d="M207.86 542.78v23.68" class="st1" />
+    <path d="m298.45 294.01 6.37-4.15-7.58-.5 1.22 4.65Z" class="st19" />
+    <path d="m299.23 291.32-41.17 10.76" class="st1" />
+    <path d="m112.63 183.75-6.57-3.82 7.55-.89-.98 4.71Z" class="st19" />
+    <path d="M157.92 190.72s-32.78-6.82-46.22-9.61" class="st1" />
+    <path d="m112.28 294-6.42-4.06 7.58-.6-1.15 4.67Z" class="st19" />
+    <path d="M154.98 302.08s-30.63-7.58-43.52-10.76" class="st1" />
+    <path d="m112.43 398.81-6.88-3.23 7.44-1.54-.56 4.77Z" class="st19" />
+    <path d="m154.98 401.42-43.7-5.17" class="st1" />
+    <path d="m113.46 341.22-7.59-.31 6.26-4.31 1.33 4.62Z" class="st19" />
+    <path d="M166.29 323.47s-39.96 11.54-54.89 15.85" class="st1" />
+    <path d="m298.92 434.49 7.53 1.01-5.42-5.33-2.11 4.32Z" class="st19" />
+    <path d="m301.27 432.97-44.81-21.93" class="st1" />
+    <path d="m297.85 204.78 7.21-2.4-7.21-2.4v4.81Z" class="st19" />
+    <path d="M299.29 202.38h-40.96" class="st1" />
+    <path d="m111.02 222.82-6.24 4.33 7.6.28-1.35-4.61Z" class="st19" />
+    <path d="M110.32 225.53c13.46-3.94 46.8-13.71 46.8-13.71" class="st1" />
+    <path d="m438.55 570.86 2.4-7.21 2.4 7.21h-4.81Z" class="st19" />
+    <path d="M440.96 584.7v-15.28" class="st1" />
+    <path d="m108.68 245.72-4.71-5.96 7.35 1.94-2.63 4.02Z" class="st19" />
+    <path d="M166.14 280.5s-42.75-28.01-57.35-37.58" class="st1" />
+    <path d="m111.72 436.63-5.86 4.84 7.59-.36-1.73-4.48Z" class="st19" />
+    <path d="M111.24 439.39c14.13-5.47 51.22-19.81 51.22-19.81" class="st1" />
+    <path d="m336.31 529.51-2.4-7.21-2.4 7.21h4.81Z" class="st19" />
+    <path d="M333.9 528.07v12.76" class="st1" />
+    <path d="m303.06 354.73 3.97-6.48-7.06 2.81 3.1 3.68Z" class="st19" />
+    <path d="M302.61 351.96c-12.4 10.45-46.69 39.31-46.69 39.31" class="st1" />
+    <path d="m209.81 443.43-2.4-7.21-2.4 7.21h4.81Z" class="st19" />
+    <path d="M207.41 441.99v26.17" class="st1" />
+    <path d="m208.99 343.45-2.46-7.19-2.34 7.23 4.81-.04Z" class="st19" />
+    <path d="M206.58 342.03c.08 8.96.21 25.22.21 25.22" class="st1" />
+    <path d="m209.19 244.02-2.4-7.21-2.4 7.21h4.81Z" class="st19" />
+    <path d="M206.79 242.58v24.79" class="st1" />
+    <path d="m307.43 484.26 6.67 3.64-3.15-6.92-3.52 3.27Z" class="st19" />
+    <path d="M310.17 483.68c-13.85-14.9-59.59-64.1-59.59-64.1" class="st1" />
+    <path
+            d="m414.91 598.65 7.31 2.08-4.6-6.05-2.71 3.97ZM368.29 566.81l-4.6-6.05 7.31 2.08-2.71 3.97Z"
+            class="st19"
+        />
+    <path d="M417.46 597.47c-10.99-7.5-38.02-25.96-49.01-33.46" class="st1" />
+    <path d="m297.97 605.37 6.85 3.3-7.46 1.47.61-4.77Z" class="st26" />
+    <path d="M258.73 602.78s28.02 3.58 40.36 5.16" class="st0" />
+    <path d="m112.77 610.23-7.45-1.49 6.86-3.28.6 4.77Z" class="st26" />
+    <path d="M154.38 602.59s-30.4 3.81-43.35 5.43" class="st0" />
+    <path d="m111.21 566.42-5.45-5.3 7.54.97-2.09 4.33Z" class="st26" />
+    <path d="M158.91 586.79s-34.58-16.71-47.96-23.17" class="st0" />
+    <g id="Zertifikat200">
+      <path
+                d="M259.2 377.31s.59.69.78 2.61c.2 2.05.19 1.93.6 9.29 0 0-1.44-1.33-2.68.06l.14-9.17s-.05-2.13.65-2.77h.51v-.01Z"
+                class="st17"
+            />
+      <path d="m258.58 374.38-.27-7.02" class="st2" />
+      <path
+                d="M257.11 376.08c.03.86.74 1.53 1.6 1.51a1.56 1.56 0 0 0 1.51-1.6 1.56 1.56 0 0 0-1.6-1.51c-.86.03-1.53.74-1.51 1.6"
+                class="st12"
+            />
+      <path
+                d="m249.96 370-3.13 9.41s-19.74 2.98-30.76-11.87l3.91-9.42 11.85 12.91 18.13-1.03Z"
+                class="st17"
+            />
+      <path
+                d="m260.97 367.15-19.38-19.48-28.15.02 19.26 21.13 28.26-1.66Z"
+                class="st17"
+            />
+      <text class="st22" transform="rotate(21.65 -811.325 761.257)"><tspan
+                    x="0"
+                    y="0"
+                >Zertiprüfung</tspan></text>
+      <text class="st22" transform="rotate(21.65 -833.046 784.032)"><tspan
+                    x="0"
+                    y="0"
+                >200</tspan></text>
+    </g>
+    <g id="Zertifikat400">
+      <path
+                d="M258.92 275.78s.74.54 1.35 2.37c.66 1.95.62 1.84 2.67 8.91 0 0-1.7-.98-2.6.66l-1.92-8.97s-.52-2.07.01-2.85l.49-.12Z"
+                class="st17"
+            />
+      <path d="m257.65 273.06-1.84-6.78" class="st2" />
+      <path
+                d="M256.61 275.05a1.557 1.557 0 0 0 3.01-.79 1.557 1.557 0 0 0-3.01.79"
+                class="st12"
+            />
+      <path
+                d="m248.66 269.2-2.89 9.49s-19.65 3.48-31.05-11.09l3.67-9.51 12.17 12.6 18.1-1.49Z"
+                class="st17"
+            />
+      <path
+                d="m259.48 266.06-19.86-18.98-28.14.73 19.79 20.63 28.21-2.38Z"
+                class="st17"
+            />
+      <text class="st22" transform="rotate(20.26 -595.54 746.837)"><tspan
+                    x="0"
+                    y="0"
+                >Zertiprüfung</tspan></text>
+      <text class="st22" transform="rotate(20.26 -618.458 771.465)"><tspan
+                    x="0"
+                    y="0"
+                >400</tspan></text>
+    </g>
+    <g id="Zertifikat600">
+      <path
+                d="M258.61 175.73s.81.43 1.69 2.14c.95 1.83.89 1.73 4 8.4 0 0-1.83-.7-2.47 1.05l-3.27-8.57s-.83-1.96-.42-2.82l.47-.2Z"
+                class="st17"
+            />
+      <path d="m256.94 173.23-2.85-6.42" class="st2" />
+      <path
+                d="M256.21 175.36a1.56 1.56 0 0 0 2.86-1.24 1.56 1.56 0 0 0-2.86 1.24"
+                class="st12"
+            />
+      <path
+                d="m247.32 169.59-2.83 9.51s-19.63 3.6-31.12-10.9l3.62-9.54 12.25 12.53 18.09-1.6Z"
+                class="st17"
+            />
+      <path
+                d="m258.22 166.39-19.98-18.86-28.13.9 19.92 20.51 28.19-2.55Z"
+                class="st17"
+            />
+      <text class="st23" transform="rotate(19.25 -343.515 725.912)"><tspan
+                    x="0"
+                    y="0"
+                >Zertiprüfung</tspan></text>
+      <text class="st23" transform="rotate(19.25 -367.383 752.04)"><tspan
+                    x="0"
+                    y="0"
+                >600</tspan></text>
+    </g>
+    <text
+            style="font-family:ArialMT,Arial;isolation:isolate;fill:#1d1d1b;font-size:12.82px"
+            transform="translate(174.21 652.24)"
+        ><tspan x="0" y="0">Starte hier</tspan></text>
+  </g>
+</svg>
